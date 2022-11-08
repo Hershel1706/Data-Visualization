@@ -10,14 +10,8 @@ I hope to continually imporve my data visualization skills, even beyond the clas
 # Portfolio
 Welcome to my universe!
 
-# Government Debt 
-
-<iframe src="https://data.oecd.org/chart/6SmH" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SmH" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
-
-# Debt-to-GDP Ratio
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11736748"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
 # Link to live site 
 https://hershel1706.github.io/Data-Visualization/
+
+# Link to new Page 
+https://hershel1706.github.io/Data-Visualization/Dataviz2
