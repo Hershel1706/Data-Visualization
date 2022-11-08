@@ -11,4 +11,4 @@ I hope to continually imporve my data visualization skills, even beyond the clas
 https://hershel1706.github.io/Data-Visualization/
 
 # Link to new Page 
-Click [here]([https://hershel1706.github.io/Data-Visualization/Dataviz2]) to see my data visualization work 
+Find my data visualization work here https://hershel1706.github.io/Data-Visualization/Dataviz2
