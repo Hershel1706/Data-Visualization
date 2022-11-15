@@ -3,11 +3,11 @@
 
 # Step two: critique the data visualization
 ![](Critique.jpg)
+![](Critique_1.jpg)
+![](Critique_2.jpg)
 
-<img scr= "https://github.com/Hershel1706/Data-Visualization/blob/main/Critique_1.jpg">
-<img scr= "https://github.com/Hershel1706/Data-Visualization/blob/main/Critique_2.jpg">
 
 # Step three: sketch out a solution
-<img src= "https://github.com/Hershel1706/Data-Visualization/blob/main/Re-Design%20Sketch.jpg">
+![](Re-Design Sketch.jpg)
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11807497"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
