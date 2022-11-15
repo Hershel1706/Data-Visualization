@@ -1,5 +1,5 @@
 # Step one: find a data visualization
-[Market value of qualified teams (millions euros)]([url](https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview))
+[Market value of qualified teams (millions euros)](https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview)
 
 # Step two: critique the data visualization
 
