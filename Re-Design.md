@@ -3,6 +3,7 @@
 
 # Step two: critique the data visualization
 
+
 # Step three: sketch out a solution
 <img src= "https://github.com/Hershel1706/Data-Visualization/blob/main/Re-Design%20Sketch.jpg">
 
