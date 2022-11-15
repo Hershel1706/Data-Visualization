@@ -2,7 +2,8 @@
 [Market value of qualified teams (millions euros)](https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview)
 
 # Step two: critique the data visualization
-<img scr= "https://github.com/Hershel1706/Data-Visualization/blob/main/Critique.jpg">
+! [] (Data-Visualization/Critique.jpg)
+
 <img scr= "https://github.com/Hershel1706/Data-Visualization/blob/main/Critique_1.jpg">
 <img scr= "https://github.com/Hershel1706/Data-Visualization/blob/main/Critique_2.jpg">
 
