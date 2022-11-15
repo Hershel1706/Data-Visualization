@@ -8,6 +8,6 @@
 
 
 # Step three: sketch out a solution
-![](Re-Design Sketch.jpg)
+![](Re-Design%20Sketch.jpg)
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11807497"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
