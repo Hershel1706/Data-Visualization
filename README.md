@@ -7,6 +7,6 @@ Hi! My name is Ibrahim Kante. I love watching and playing soccer. Academically t
 # What I hope to learn
 I hope to continually improve my data visualization skills, even beyond the classroom. 
 
-## [Live site] (https://hershel1706.github.io/Data-Visualization/)
+## [Live site](https://hershel1706.github.io/Data-Visualization/)
 
-## [Visualizing OECD Government Debt] (https://hershel1706.github.io/Data-Visualization/Dataviz2)
+## [Visualizing OECD Government Debt](https://hershel1706.github.io/Data-Visualization/Dataviz2)
