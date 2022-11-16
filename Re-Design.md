@@ -6,9 +6,11 @@
 <summary>
 Step two: critique the data visualization
 </summary>
+<span>
 ![](Critique.jpg)
 ![](Critique_1.jpg)
 ![](Critique_2.jpg)
+</span>
 </details>
 
 
