@@ -4,7 +4,7 @@
 # Step two: critique the data visualization
 <details>
 <summary>
-Step two: critique the data visualization
+  <h1>Step two: critique the data visualization</h1>
 </summary>
 <span>
 ![](Critique.jpg)
