@@ -23,7 +23,10 @@
 <summary>
   <h1>Step three: Sketch out a solution</h1>
 </summary>
+  I started with the initial sketch to clarify my ideas.
 <img src="Re-Design%20Sketch.jpg"/>
+  
+  Then, I made up a second rought design to capture the general idea with more readability and color schemes to identify the continents
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11807497"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </details>
 
@@ -52,7 +55,8 @@
 <summary>
   <h1>Step five: Build your solution</h1>
 </summary>
-<div class='tableauPlaceholder' id='viz1668577255582' style='position: relative'><noscript><a href='#'><img alt='2022 World Cup Team Market ValueMarket value of World Cup-qualified teams as of September 2022 (in million euros) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldCupTeamsValueRe-design&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldCupTeamsValueRe-design&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldCupTeamsValueRe-design&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
+<div class='tableauPlaceholder' 
+id='viz1668577255582' style='position: relative'><noscript><a href='#'><img alt='2022 World Cup Team Market ValueMarket value of World Cup-qualified teams as of September 2022 (in million euros) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldCupTeamsValueRe-design&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldCupTeamsValueRe-design&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldCupTeamsValueRe-design&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
   <script type='text/javascript'>                   
     var divElement = document.getElementById('viz1668577255582');             
     var vizElement = divElement.getElementsByTagName('object')[0];                   
@@ -61,5 +65,9 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';               
     vizElement.parentNode.insertBefore(scriptElement, vizElement);               
   </script>
+  
+The purpose behind this re-design was to fully to reveal the information in dataset such the audience would immediately capture the information displayed. 
+  For starters, I changed the design from a treemap to a bar graph dividing the countries by their respective continents (color-coded). My objective was to demonstrate that the treemap lacked some additional explanatory features even though it probably achieved the original author's goals which was to highlight the european dominance. With the same data set, the bar graph is able to show the magnitude of such dominance with exact numbers. Besides, it gives the audience more identifiers features.
+  Then, afteer a couple rounds of feedback I made some edits to the initial sketch to capture the essence of the re-design. (1) I changed the layout to a vertical 
   
 </details>
