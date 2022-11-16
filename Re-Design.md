@@ -1,9 +1,14 @@
-# Step one: find a data visualization
-[Market value of qualified teams (millions euros)](https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview)
 
 <details>
 <summary>
-  <h1>Step two: critique the data visualization</h1>
+  <h1>Step one: Find a data visualization</h1>
+</summary>
+<a href="https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview">Market value of qualified teams (millions euros)</a>
+</details>
+
+<details>
+<summary>
+  <h1>Step two: Critique the data visualization</h1>
 </summary>
 <img src="Critique.jpg"/>
 
@@ -13,13 +18,27 @@
 </details>
 
 
-# Step three: sketch out a solution
-![](Re-Design%20Sketch.jpg)
-
+<details>
+<summary>
+  <h1>Step three: Sketch out a solution</h1>
+</summary>
+<img src="Re-Design%20Sketch.jpg"/>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11807497"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+</details>
 
-# Step four: Test the solution
-## Critique 1
-## Critique 2
 
-# Step five: Build your solution
+
+<details>
+<summary>
+  <h1>Step four: Test your solution</h1>
+</summary>
+  <h2>Critique 1</h2>
+  <h2>Critique 2</h2>
+</details>
+
+
+<details>
+<summary>
+  <h1>Step five: Build your solution</h1>
+</summary>
+</details>
