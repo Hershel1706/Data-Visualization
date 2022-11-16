@@ -1,3 +1,4 @@
+# Critique by Design
 
 <details>
 <summary>
@@ -39,7 +40,7 @@
 4. World Cup viewers in general but given the focus on continents, I think that a more specific audience for this can be various football stakeholders and parties interested in the development of the sport at the continental level.
 5. No, I think it achieves the intended goal. 
   
-  <h2>Critique 2</h2>
+  <h2>Critique 2: From a peer</h2>
 1. The visualization ranks the market value of “World Cup Teams” with color coding and labels for continent of country of origin. 
 2. This tells me that most of the top teams are from Europe and South America, and the top two are England and Brazil. African and Asian Teams tend to be ranked lower.
 3. The labels on the bars is a little confusing. I might rather have a legend. 
