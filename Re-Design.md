@@ -7,6 +7,7 @@
 ![](Critique_2.jpg)
 
 
+
 # Step three: sketch out a solution
 ![](Re-Design%20Sketch.jpg)
 
