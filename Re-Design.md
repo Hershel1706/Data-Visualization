@@ -7,7 +7,7 @@
   <h1>Step two: critique the data visualization</h1>
 </summary>
 <span>
-![](Critique.jpg)
+<img src="Critique.jpg"/>
 ![](Critique_1.jpg)
 ![](Critique_2.jpg)
 </span>
