@@ -1,8 +1,7 @@
 # Critique by Design
 
 ## Step one: Find a data visualization
-This design was made by Statista as part of their world cup data series. It showcases a treemap displaying the european dominance in terms of countries with the highest team market value for the upcoming world cup. 
-<a href="https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview">Market value of qualified teams (millions euros)</a>
+This design (<a href="https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview">Market value of qualified teams (millions euros)</a>) was made by Statista as part of their world cup data series. It showcases a treemap displaying the european dominance in terms of countries with the highest team market value for the upcoming world cup. 
 
 ## Step two: Critique the data visualization
 
