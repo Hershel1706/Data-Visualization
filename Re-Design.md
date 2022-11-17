@@ -29,7 +29,7 @@ Then, I made up a second rought design to capture the general idea with more rea
 4. World Cup viewers in general but given the focus on continents, I think that a more specific audience for this can be various football stakeholders and parties interested in the development of the sport at the continental level.
 5. No, I think it achieves the intended goal. 
   
-  ### Critique 2: From a peer
+  ### Critique 2: from a peer
 1. The visualization ranks the market value of “World Cup Teams” with color coding and labels for continent of country of origin. 
 2. This tells me that most of the top teams are from Europe and South America, and the top two are England and Brazil. African and Asian Teams tend to be ranked lower.
 3. The labels on the bars is a little confusing. I might rather have a legend. 
@@ -64,9 +64,10 @@ What I gathered from these critique is that the audience was able to directly id
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';              
     vizElement.parentNode.insertBefore(scriptElement, vizElement);               
   </script>
-  
+   
 The purpose behind this re-design was to fully to reveal the information in dataset such the audience would immediately capture the information displayed. 
   For starters, I changed the design from a treemap to a bar graph dividing the countries by their respective continents (color-coded). My objective was to demonstrate that the treemap lacked some additional explanatory features even though it probably achieved the original author's goals which was to highlight the European dominance. With the same data set, the bar graph is able to show the magnitude of such dominance with exact numbers. Besides, it gives the audience more identifiers features.
   Then, after a couple rounds of feedback I made some edits to the initial sketch to capture the essence of the re-design. (1) I changed the layout to a vertical shift in order to allow the audience to effectively compare the team's market value accross countries, accross continents, and within continents. (2) The color cordination is now immediately described by the legend and the filter tool as been refine to display teams of a continent at will.
   Overall, this re-design was added a plus-value in terms of instructional potentcy. It gives the audience more information without necessarily overwhelming them. Each feature has been carefully tailored to only value and embellish the design. 
   
+I.K.
