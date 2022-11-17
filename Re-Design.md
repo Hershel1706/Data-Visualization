@@ -1,11 +1,8 @@
 # Critique by Design
 
-<details>
-<summary>
-  <h1>Step one: Find a data visualization</h1>
-</summary>
+## Step one: Find a data visualization</h1>
+
 <a href="https://www.statista.com/topics/9211/2022-fifa-world-cup/#topicOverview">Market value of qualified teams (millions euros)</a>
-</details>
 
 <details>
 <summary>
