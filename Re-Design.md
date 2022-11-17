@@ -17,7 +17,7 @@ Step one: Find a data visualization
 I started with an initial sketch to clarify my ideas.
 <img src="Re-Design%20Sketch.jpg"/>
   
-Then, I made up a second rought design to capture the general idea with more readability and color schemes to identify the continents. As you can see, this step enabled me to represent the distinctions in number of countries qualified and their market values per continent. At this stage, we can already make some early comparisons and are able to re-tell the story in a more detailed manner. 
+Then, I made up a second rough digital design to capture the general idea with more readability and color schemes to identify the continents. As you can see, this step enabled me to represent the distinctions in number of countries qualified and their market values per continent. At this stage, we can already make some early comparisons and are able to re-tell the story in a more detailed manner. 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11807497"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
@@ -65,9 +65,9 @@ What I gathered from these critique is that the audience was able to directly id
     vizElement.parentNode.insertBefore(scriptElement, vizElement);               
   </script>
    
-The purpose behind this re-design was to fully to reveal the information in dataset such the audience would immediately capture the information displayed. 
-  For starters, I changed the design from a treemap to a bar graph dividing the countries by their respective continents (color-coded). My objective was to demonstrate that the treemap lacked some additional explanatory features even though it probably achieved the original author's goals which was to highlight the European dominance. With the same data set, the bar graph is able to show the magnitude of such dominance with exact numbers. Besides, it gives the audience more identifiers features.
-  Then, after a couple rounds of feedback I made some edits to the initial sketch to capture the essence of the re-design. (1) I changed the layout to a vertical shift in order to allow the audience to effectively compare the team's market value accross countries, accross continents, and within continents. (2) The color cordination is now immediately described by the legend and the filter tool as been refine to display teams of a continent at will.
-  Overall, this re-design was added a plus-value in terms of instructional potentcy. It gives the audience more information without necessarily overwhelming them. Each feature has been carefully tailored to only value and embellish the design. 
+The purpose behind this re-design was to make fully evident the information in the dataset such that the audience would immediately capture the information displayed. 
+	For starters, I changed the design from a treemap to a bar graph dividing the countries by their respective continents (color-coded). My objective was to demonstrate that the treemap lacked some additional explanatory features even though it probably achieved the original author's goals which was to highlight the European dominance. With the same data set, the bar graph is able to show the magnitude of such dominance with exact numbers. Besides, it gives the audience more identifying features.
+	Then, after a couple rounds of feedback, I made some edits to the digital sketch to capture the essence of the re-design. (1) I changed the layout to a vertical shift in order to allow the audience to effectively compare the team's market value accross countries, accross continents, and within continents. (2) The color cordination is now immediately described by the legend and the filter tool as been refined to display teams of a continent at will.
+	Overall, this re-design was added a plus-value in terms of instructional potentcy. It gives the audience more information without necessarily overwhelming them. Each feature has been carefully tailored to only value and embellish the design. 
   
 I.K.
