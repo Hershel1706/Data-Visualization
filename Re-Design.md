@@ -51,10 +51,9 @@
 5. I might remove the continent labels since they are somewhat repetitive. To give a more global perspective, I might group the bars by continent and sort them by value within the group.
 </details>
 
-<details>
-<summary>
-  <h1>Step five: Build your solution</h1>
-</summary>
+
+## Step five: Build your solution
+
 <div class='tableauPlaceholder' id='viz1668648898659' style='position: relative'><noscript><a href='#'><img alt='2022 World Cup Team Market ValueMarket value of World Cup-qualified teams as of September 2022 (in million euros) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldCupTeamsValueRe-design&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'>
   <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
   <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
@@ -83,4 +82,3 @@ The purpose behind this re-design was to fully to reveal the information in data
   For starters, I changed the design from a treemap to a bar graph dividing the countries by their respective continents (color-coded). My objective was to demonstrate that the treemap lacked some additional explanatory features even though it probably achieved the original author's goals which was to highlight the european dominance. With the same data set, the bar graph is able to show the magnitude of such dominance with exact numbers. Besides, it gives the audience more identifiers features.
   Then, afteer a couple rounds of feedback I made some edits to the initial sketch to capture the essence of the re-design. (1) I changed the layout to a vertical 
   
-</details>
