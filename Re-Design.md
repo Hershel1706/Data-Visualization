@@ -9,9 +9,9 @@
 
 <img src="Critique.jpg"/>
 
-<img src="Critique1.jpg"/>
+<img src="Critique_1.jpg"/>
 
-<img src="Critique2.jpg"/>
+<img src="Critique_2.jpg"/>
 
 
 ## Step three: Sketch out a solution
