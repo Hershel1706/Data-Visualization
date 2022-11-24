@@ -35,7 +35,7 @@ Main destinations of African immigrants as of 2019, by world region
 <img src="Sketch%201.jpg"/> 
 
 Accumulated streams by the top 10 Afrobeat Artists overtime
-<img src="Sketch%202.jpg"/>
+<img src="Sketch%202.png"/>
 
 ## Data
 For this project, I am compiling data from a variety of sources primarily because immigration and streaming data are scattered. However for my explanatory variable which is immigration trends, I will collect most of it from the United Nations International Migrant Stock. 
