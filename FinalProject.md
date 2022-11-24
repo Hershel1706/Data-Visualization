@@ -4,6 +4,7 @@
 
 This project is indicative of the education we receive at Heinz. With it, my goal is to use data to explain an observable phenomenon in society, and in the context of this class, use data visualization techniques to illustrate it. With this topic, I am able to explore how immigration trends (and presumably the policies that undergird them) can have an impact on the music scene through cultural exchange. 
 Ideally, this project will be an illustration of one of the ways good immigration policies can produce net societal benefits. The artists and charts that will be displayed will make an account of the evolution of the music genre as well as its progressive elevation to the global scene. The story that I will be telling is one that illustrates how deeply connected the African diaspora is to the continent.
+
 I)	Timeline panel – The ascension of Afrobeat Music
     a.	 Early 2000s: the renewal beginnings  
     b.	2010s: the P-Square domination
@@ -38,7 +39,8 @@ Accumulated streams by the top 10 Afrobeat Artists overtime
 <img src="Sketch%202.png"/>
 
 ## Data
-For this project, I am compiling data from a variety of sources primarily because immigration and streaming data are scattered. However for my explanatory variable which is immigration trends, I will collect most of it from the United Nations International Migrant Stock. 
+For this project, I am compiling data from a variety of sources primarily because immigration and streaming data are scattered. However for my explanatory variable which is immigration trends, I will collect most of it from the United Nations [International Migrant Stock]([url](https://www.un.org/development/desa/pd/content/international-migrant-stock). 
+
 As for my dependent variable, I will be collecting from three sources:
 (1)	The Sportify streaming numbers of the current top 10 afrobeat artists that I will tabulate in the separate excel sheet. However, the original data source can be found here
 (2)	The RIAA certifications garnered by the same top 10 artists that I will also tabulate myself from the RIAA official website. I will use it to compare their achievements with aforementioned artists during the early development of the genre
