@@ -40,8 +40,9 @@ Accumulated streams by the top 10 Afrobeat Artists overtime
 
 ## Data
 For this project, I am compiling data from a variety of sources primarily because immigration and streaming data are scattered. However for my explanatory variable which is immigration trends, I will collect most of it from the United Nations [International Migrant Stock.](https://www.un.org/development/desa/pd/content/international-migrant-stock) 
+
 As for my dependent variable, I will be collecting from three sources:
-(1)	The Sportify streaming numbers of the current top 10 afrobeat artists that I will tabulate in the separate excel sheet. However, the original data source can be found here
-(2)	The RIAA certifications garnered by the same top 10 artists that I will also tabulate myself from the RIAA official website. I will use it to compare their achievements with aforementioned artists during the early development of the genre
+(1)	The Sportify streaming numbers of the current top 10 afrobeat artists that I will tabulate in the separate excel sheet. However, the original data source can be found [here](https://kworb.net/spotify/artist/3tVQdUvClmAT7URs9V3rsp.html)
+(2)	The RIAA certifications garnered by the same top 10 artists that I will also tabulate myself from the [RIAA official website](https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=&ti=&lab=&genre=WORLD+MUSIC&format=&date_option=release&from=&to=&award=&type=&category=&adv=SEARCH#search_section). I will use it to compare their achievements with aforementioned artists during the early development of the genre
 (3)	I also intend to use various facts and figures from Spotify to highlight their established status on the global music scenes
 
