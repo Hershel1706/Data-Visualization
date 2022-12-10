@@ -50,10 +50,15 @@ As for my dependent variable, I will be collecting from three sources:
 
 # Part III
 
-In order to create a compelling and engaging final data story, I made a few changes to my initial plan. Initially, I had intended to focus on the rise of Afrobeat music as a global phenomenon, but after conducting research and gathering data, I realized that the real story was the impact of immigration trends on cultural exchange. By shifting the focus of my project, I was able to delve deeper into the subject matter and provide a more comprehensive and nuanced analysis.
-One of the key challenges I faced was identifying the audience for my final data story. After clear reflections, I realized that my target audience consisted of music enthusiasts and policymakers interested in the intersection of immigration and cultural exchange. With this in mind, I tailored my story to appeal to these specific groups, highlighting the benefits of immigration on the music industry and calling for policies that will progressively lead to the free movement of people.
-In terms of design decisions, I had to make several choices in order to create a cohesive and visually appealing final project. I used a combination of text, images, and charts to illustrate my points, and I paid careful attention to the layout and formatting of the page in order to make it easy to read and understand. Additionally, I incorporated interactive elements, such as the timeline panel and the Spotify streaming numbers, to engage the reader and enhance their experience.
-Overall, working on this project has been a rewarding experience, and I have learned a great deal about the role of immigration in cultural exchange. I am confident that my final data story will provide valuable insights and engage my target audience.
+In creating my final data story, I made several changes to better appeal to my identified audience. Originally, I had planned to focus on the rise of Afrobeat music as a whole, but after conducting interviews and creating personas, I realized that my audience was primarily interested in the relationship between immigration trends and the success of Afrobeat artists.
+
+To narrow the focus of my project, I collected data on the top 10 Afrobeat artists and their immigration histories, as well as data on the rise of immigration from African countries to the United States as well internationally. I then used this data to illustrate the relationship between immigration and the success of Afrobeat artists.
+
+In terms of design, I made several decisions to create a visually appealing and easily understandable story. I included charts and graphs to clearly display the evolution of the Afrobeat genre, especially compared to other genres. I also included information on specific artists to add a personal touch and make the story more engaging.
+
+Throughout the process of creating my data story, I learned the importance of thoroughly understanding my audience and tailoring my project to their interests. I also gained a deeper understanding of the technical aspects of data visualization, such as choosing the right type of chart or graph to effectively display data.
+Overall, my final data story successfully illustrates the relationship between immigration trends and the rise of Afrobeat music. It highlights the benefits of immigration on the music industry, and showcases the unique role of the Nigerian diaspora in the success of Afrobeat artists. By providing a clear and engaging narrative, I hope to inspire audiences to support the rise of Afrobeat music and policies that would lead to the free movement of people.
+
 
 Here is the link to my final data story:
 https://carnegiemellon.shorthandstories.com/the-impact-of-migration-on-cultural-exchange/index.html
