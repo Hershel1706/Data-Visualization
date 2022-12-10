@@ -9,6 +9,8 @@ I hope to continually improve my data visualization skills, even beyond the clas
 
 ## [Live site](https://hershel1706.github.io/Data-Visualization/)
 
+## [Tableau Practice](https://hershel1706.github.io/Data-Visualization/TableauDemo)
+
 ## [Visualizing OECD Government Debt](https://hershel1706.github.io/Data-Visualization/Dataviz2)
 
 ## [Re-design Assignment](https://hershel1706.github.io/Data-Visualization/Re-Design)
