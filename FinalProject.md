@@ -52,7 +52,7 @@ As for my dependent variable, I will be collecting from three sources:
 
 In creating my final data story, I made several changes to better appeal to my identified audience. Originally, I had planned to focus on the rise of Afrobeat music as a whole, but after conducting interviews and creating personas, I realized that my audience was primarily interested in the relationship between immigration trends and the success of Afrobeat artists.
 
-To narrow the focus of my project, I collected data on the top 10 Afrobeat artists and their immigration histories, as well as data on the rise of immigration from African countries to the United States as well internationally. I then used this data to illustrate the relationship between immigration and the success of Afrobeat artists.
+To narrow the focus of my project, I collected data on the top 10 Afrobeat artists and their immigration histories, as well as data on the rise of immigration from African countries to the United States as well internationally. I then used this data to illustrate the relationship between immigration and the success of Afrobeat artists. I used data from the United Nations International Migrant Stock to explore the immigration trends of Nigerian artists who have contributed to the rise of Afrobeat music. I also used data from Spotify and the RIAA to show the success of these artists and highlight their established status in the global music scene.
 
 In terms of design, I made several decisions to create a visually appealing and easily understandable story. I included charts and graphs to clearly display the evolution of the Afrobeat genre, especially compared to other genres. I also included information on specific artists to add a personal touch and make the story more engaging.
 
