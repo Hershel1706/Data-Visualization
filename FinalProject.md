@@ -52,7 +52,7 @@ As for my dependent variable, I will be collecting from three sources:
 
 The title of my project is The impact of immigration trends on cultural exchange: Using the rise of Afrobeat music as a case study.
 The impact of immigration trends on cultural exchange is a topic that has garnered significant attention in recent years, particularly in the music industry. One area that has seen significant influence from immigration trends is Afrobeat music, which has grown in popularity globally in recent years. The motivations behind a project on this topic include the desire to understand the role that immigration plays in cultural exchange, the impact of immigration on the music industry, and the potential benefits of immigration policy on the industry.
-To do so, I put together a storyboard (found here) that illustrated the link between immigration and the rise of this genre of music. Mainly how immigration has shaped the development of Afrobeat music and other forms of music around the world. 
+To do so, I put together a storyboard (found [here](https://carnegiemellon.shorthandstories.com/the-impact-of-migration-on-cultural-exchange/index.html#group-section-Afrobeat-overview-vV3gaKdqF8)) that illustrated the link between immigration and the rise of this genre of music. Mainly how immigration has shaped the development of Afrobeat music and other forms of music around the world. 
 
 ##### User Research Protocol:
 The audiences for a project on the impact of immigration trends on cultural exchange, using the rise of Afrobeat music as a case study, would likely be diverse and varied. However, I chose 3 typical personas. 
