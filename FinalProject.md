@@ -64,7 +64,7 @@ Having identified those people, I started my interview process to get some feedb
 “Afrobeat music, which originated in Nigeria in the 1960s and 70s, has been heavily influenced by a range of cultural traditions and influences. In recent years, the genre has seen a surge in popularity globally, with artists like WizKid and Burna Boy gaining widespread recognition and acclaim. This globalization of Afrobeat music has been facilitated in part by the movement of people and ideas across borders, and a project on the impact of immigration trends on cultural exchange could help to shed light on the ways in which immigration has contributed to the development and diffusion of this music. Tell me what you think.”
 
 |Goals	|Questions|
---------------------
+|-------|---------|
 |Gathering first impression	|What do you think of the project? |
 |Trying to collect areas of technical improvement |	Noticed anything confusing or funky?|
 |Knowing if the current design convinced them of the story I was trying to tell|	Is the story compelling? Why? Why not?|
