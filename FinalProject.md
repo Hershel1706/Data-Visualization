@@ -59,17 +59,20 @@ The audiences for a project on the impact of immigration trends on cultural exch
 1.	Music fans in the U.S. and U.K., particularly those who are interested in Afrobeat music and other forms of global music.
 2.	Policymakers and advocates for immigration reform here in the U.S.
 3.	The diplomatic corps of other African countries.
+
 Having identified those people, I started my interview process to get some feedback. I typically gave this blurb to my correspondents along with the link to the storyboard so they have some context going into it. 
 “Afrobeat music, which originated in Nigeria in the 1960s and 70s, has been heavily influenced by a range of cultural traditions and influences. In recent years, the genre has seen a surge in popularity globally, with artists like WizKid and Burna Boy gaining widespread recognition and acclaim. This globalization of Afrobeat music has been facilitated in part by the movement of people and ideas across borders, and a project on the impact of immigration trends on cultural exchange could help to shed light on the ways in which immigration has contributed to the development and diffusion of this music. Tell me what you think.”
-Goals	Questions
-Gathering first impression	What do you think of the project? 
-Trying to collect areas of technical improvement	Noticed anything confusing or funky?
-Knowing if the current design convinced them of the story, I was trying to tell	Is the story compelling? Why? Why not?
-This was to get their last impressions, after the questions I asked earlier	What stood out to you? Any recommendations needed?
+
+|Goals	|Questions|
+--------------------
+|Gathering first impression	|What do you think of the project? |
+|Trying to collect areas of technical improvement |	Noticed anything confusing or funky?|
+|Knowing if the current design convinced them of the story I was trying to tell|	Is the story compelling? Why? Why not?|
+|This was to get their last impressions, after the questions I asked earlier|	What stood out to you? Any recommendations needed?|
 
 User Research Findings: 
-
-Interviewee	What do you think of the project?	Noticed anything confusing or funky?	Is the story compelling? Why? Why not?	What stood out to you? Any recommendations needed?
+|Interviewee	| What do you think of the project?	| Noticed anything confusing or funky? | Is the story compelling? Why? Why not? |	What stood out to you? Any recommendations needed? |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dad	I think it's really interesting and informative. I love learning about the history and evolution of different music genres, and I think Afrobeat is a really unique and exciting genre. I also appreciate the focus on other genres to illustrate the link you were trying to make.	Not really, everything seems self-explanatory. The way the data is presented is really clear and easy to understand.	Yes, I think it's definitely compelling. It's a really unique topic that I think a lot of people would find interesting. I have to admit that perhaps as an Immigrant, I was able to make the link immediately and I am not sure others would be able to make that connection so easily.	One thing that stood out to me was how much Afrobeat music has grown in popularity in recent years. The globe of the immigration migration was very eye-catching. That is how I was able to make the connection.
 But I also think it would be interesting to see more about the specific artists and their immigration stories, as that would add a more personal touch to the story.
 Celine	I think it's really interesting and relevant to my work in the music industry. It's always fascinating to see how different cultural influences shape the music we hear. I love how you attached a playlist at the end. 	Not really, everything seems to be well-explained and organized. The colors were very captivating.	Yes, definitely. I think the data is presented in a really clear and engaging way, and the story is definitely compelling. It's interesting to see how immigration trends have impacted the success of Afrobeat artists, and I think that's something that would be of interest to a lot of people in the music industry.	One thing that stood out to me was the recommendations section, especially the focus on the benefits of immigration policy for the music industry. For each of these target audiences we can notice how the story tracks and would make sense to them. I would recommend splitting the audiences however because focusing on one will enable you to create the same story with 3 different feels to it. 
